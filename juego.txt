@@ -1,2 +1,2 @@
 estoy editando el archivo desde la temrinal bash
-
+Yo estoy editando con VSCode
